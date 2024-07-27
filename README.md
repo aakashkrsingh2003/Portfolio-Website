@@ -2,7 +2,6 @@
 Portfolio website build using HTML5, CSS3, JavaScript and jQuery.
 
 # DEMO
-Yaha pr kar Screen shot paste
 ![Screenshot 2024-07-27 142355](https://github.com/user-attachments/assets/54a56b6b-6d8a-43b9-90fb-3be1a4165ff6)
 ![Screenshot 2024-07-27 142445](https://github.com/user-attachments/assets/ab950afd-0b29-45f8-ac46-bdb172624a22)
 ![Screenshot 2024-07-27 142553](https://github.com/user-attachments/assets/8b13645c-091d-4525-9789-3b208d020340)
